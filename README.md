@@ -1,1 +1,1 @@
-# dashboard_on_cognos
+# ibm_dataanalyst_copstone project
